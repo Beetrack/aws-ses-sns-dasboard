@@ -10,6 +10,8 @@ Simple app to receive notifications from Amazon SES through Amazon SNS and save 
  - Npm 2.14.2
  - Gulp 3.9.1
 
+### Download Dependencies ###
+     go get -v github.com/beetrack/aws-ses-sns-dashboard
 
 ### Build App ###
      go build
